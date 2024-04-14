@@ -1,4 +1,4 @@
-# Cancer-cell---Logistic_Regression-KNN-Naive-Bayes
+# Cancer-cell---Logistic_Regression,KNN,Naive-Bayes,Voting,Stacking,Random-Forest,XGBoost
 
 Breast Cancer Detection - Malignant or Benign
 
